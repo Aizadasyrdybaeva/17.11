@@ -6,3 +6,7 @@ p{
   text-decoration: blink;
   text-transform: capitalize;
 }
+h1{
+  font-size: larger;
+  text-shadow: 4px 4px 5px red;
+}
